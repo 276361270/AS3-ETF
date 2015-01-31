@@ -2,8 +2,7 @@
 
 Class help to communicate ActionScript and Erlang, using Erlang External Term Format.
 
-Data Format
-
+#Data Format
 Erlang                  ActionScript            Erlang
 =======================================================================================
 atom            ->      "atom"          ->      <<"atom">>
