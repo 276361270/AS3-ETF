@@ -11,6 +11,8 @@ atom		  |	"atom"          | <<"atom">>
 \[\]          | \[\]            | \[\]
 "string"      | [131,107,0,...] | \<\<131,107,0,6,115,116,114,105,110,103>>
 
+For use needs VM's that support the maps data type (i.e., 17.0 and newer).
+
 Usage: 
 
     From AS to Erlang
